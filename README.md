@@ -16,7 +16,12 @@ To run the QRCode Badge Generator, you need Python installed on your system alon
 - PIL
 - qrcode
 
-You can install the required libraries using pip:
+You can install the required libraries using pip
 
-```bash
-pip install Pillow qrcode
+## Usage
+
+Run the script to open the GUI.
+Enter your name, email, and optional Twitter and GitHub handles.
+Click the 'Create' button to generate your badge.
+Preview the badge in the application.
+Use the 'Print' button to save the badge as a PNG file.
